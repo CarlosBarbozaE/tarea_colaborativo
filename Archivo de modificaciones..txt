@@ -1,2 +1,7 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 Carlos_Barboza_1
+
+Jaime Vazquez Guzman 
+el repositorio remoto actualizado se puede encontrar en las url's
+https://github.com/CarlosBarbozaE/tarea_colaborativo
+https://github.com/J1MMY117/tarea_colaborativo
